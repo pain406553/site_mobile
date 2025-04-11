@@ -1,0 +1,301 @@
+.img1{
+    display: flex;
+   width: 1180px;
+    background-color:cornflowerblue;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img2{
+    width: 1180px;
+   display: flex;
+    background-color:darkgray;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img3{
+    width: 1180px;
+   display: flex;
+    background-color:cornflowerblue;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img4{
+    width: 1180px;
+   display: flex;
+    background-color:darkgray;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img5{
+    width: 1180px;
+   display: flex;
+    background-color:cornflowerblue;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img6{
+    width: 1180px;
+   display: flex;
+    background-color:darkgray;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img7{
+    width: 1180px;
+   display: flex;
+    background-color:cornflowerblue;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img8{
+    width: 1180px;
+   display: flex;
+    background-color:darkgray;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+    border-radius: 0 0 20px 20px;
+    margin: 0 0 3px 0;
+}
+.img9{
+    width: 1180px;
+   display: flex;
+    background-color:cornflowerblue;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img10{
+    width: 1180px;
+   display: flex;
+    background-color:darkgray;
+    align-items: center;
+    justify-content: center;
+    border: solid black;
+}
+.img11{
+    width: 1180px;
+   display: flex;
+    background-color:cornflowerblue;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0 0 20px 20px;
+    border: solid black;
+}
+.imgRedmi{
+    width: 1180px;
+    display: flex;
+     background-color:darkgray;
+     align-items: center;
+     justify-content: center;
+     border: solid greenyellow;
+ }
+ .APPLE{
+     width: 1180px;
+    display: flex;
+     background-color:darkgray;
+     align-items: center;
+     justify-content: center;
+     border: solid greenyellow;
+ }
+img{
+    width: 250px;
+    height: 250px;
+    padding: 20px 20px 0;
+    border-radius: 50px;
+    
+    
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px 100px;
+    color: red;
+    background-color: black;
+    border-radius: 10px;
+    border: solid wheat;
+}
+h3{
+    font-size: 20px;
+    text-align: center;
+    margin: 5px 30px;
+    background-color: orange;
+    border-radius: 10px;
+    border: solid black;
+}
+li{
+    background-color: white;
+    margin: 5px 30px 5px 0;
+    border-radius: 5px;
+    border: solid black;
+    font-size: 16px;
+    font-weight: bold;
+}
+.s4{
+    display: block;
+    border: solid black;
+     
+}
+span :hover{
+    background-color: coral;
+    border-radius: 10px;
+    
+}
+span{
+    margin: 0 40px;
+    padding: 5px;
+    border-radius: 10px;
+  
+}
+.typephon{
+    background-color: antiquewhite;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid white;
+    /* margin: -20px 550px 20px -10px; */
+    margin: -20px -10px 0 -10px;
+    
+    height: 70px;
+    text-align: center;
+
+}
+.tr1{
+    color: white;
+    background-image: url("back1.jpg");
+    font-size: 20px;
+    width: 300px;
+    height: 440px;
+    float: right;
+    text-align: center;
+    border-radius: 10px;
+    border: solid black;
+}
+.tr2{
+    background-image: url("back2.jpg");
+    font-size: 20px;
+    width: 300px;
+    height: 440px;
+    float: right;
+    text-align: center;
+    border-radius: 10px;
+    border: solid black;
+}
+.tr3{
+
+    background-color: black;
+     color: gold;
+      text-align: center; 
+       width: 30%;
+        height: 200px;
+        border-radius: 20px;
+        border: solid white;
+}
+.headup{
+    background-color: skyblue;
+    color: black;
+    margin: -8px -10px 20px;
+    font-size: 20px;
+    height: 70px;
+    position: sticky;
+    top: 0;
+
+
+}
+.home{
+    
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 2px;
+   
+}
+.list{
+    margin: 10px 4px 10px 10px;
+    float: right;
+    
+    
+}
+.Samsung{
+display: block;
+float: right;
+margin:5px 100px 0;
+text-align: center;
+
+
+}
+.Samsung :hover{
+    color: red;
+}
+.Aplle{
+    display: block;
+    float: right;
+    margin:5px 100px 0;
+    text-align: center;
+    }
+.Aplle :hover{
+        color: red;
+    }
+.Redmi{
+display:  block;
+margin:5px 100px 0;
+text-align: center;
+}
+.Redmi :hover{
+    color: red;
+}
+.type{
+    justify-content: center;
+    display: flex;
+    background-color: antiquewhite;
+    
+    font-size: 19px;
+    font-weight: bold;
+    border: solid gray;
+    /* margin: -20px 550px 20px -10px; */
+    margin: -20px -12px 50px -10px;
+    height: 95px;
+    
+}
+.sign{
+    float: right;
+    margin: 10px 10px ;
+    display: flex;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 0 3px;
+    border: solid gray;
+    cursor: pointer;
+   
+}
+
+.tools{
+    float: right;
+    margin: 10px 10px ;
+}
+.type a{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.iphone_phons{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+table{
+    border: solid black;
+}
+tr,td{
+    border: solid black;
+}
